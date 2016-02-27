@@ -1,0 +1,28 @@
+name: thecrftrs
+favicon: null
+layout_spectrum: 0.06734965182840824
+typography_spectrum: 0.5666410131379962
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.14254283555783331
+  lightness: 0.651610464323312
+  saturation: 0.6547175387386233
+  rhythmicContrast: 0.6767242376226932
+purpose: []
