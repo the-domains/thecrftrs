@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[thecrftrs]]></title>
-        <description><![CDATA[thecrftrs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[working for applification]]></title>
+        <description><![CDATA[working for applification]]></description>
+        <link>https://thegrid.ai/thecrftrs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 11:29:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 11:32:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thecrftrs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to thecrftrs. We´re creating beautiful apps for your marketimg automation.</p>]]></description>
-            <link>undefinedae0902a0-2caa-46fe-bd14-b849b54c5a69/index.html</link>
+            <link>https://thegrid.ai/thecrftrs/ae0902a0-2caa-46fe-bd14-b849b54c5a69/index.html</link>
             <guid isPermaLink="false">ae0902a0-2caa-46fe-bd14-b849b54c5a69</guid>
-            <pubDate>Sat, 27 Feb 2016 11:29:26 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 11:31:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
